@@ -7,6 +7,5 @@ def find_max_value(array)
        max_Value.push(array[count])
       count += 1
  end
- 
   # Add your solution here
 end
