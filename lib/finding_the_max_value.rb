@@ -3,7 +3,7 @@ def find_max_value(array)
  max_Value = nil
  
  while count < array.length do
-    if array[count] >
+    if array[count] > 
  end
  
   # Add your solution here
